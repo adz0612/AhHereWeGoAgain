@@ -9,4 +9,4 @@ These are new changes.
 
 This is form Github.
 
-These are the new updates in branch 2.
+These are the new updates in branch 2
