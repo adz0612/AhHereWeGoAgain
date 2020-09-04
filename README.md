@@ -16,4 +16,4 @@ Github by Microsoft.
 
 Okay?
 
-BLUE
+BLU
